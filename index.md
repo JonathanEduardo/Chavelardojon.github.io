@@ -1,6 +1,7 @@
 ## Chavelardo
+#Historia
 
-puede [Descarga](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/archive/master.zip) to maintain and preview the content for your website in Markdown files.
+Se puede dercargar en  [Descarga](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/archive/master.zip) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
