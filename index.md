@@ -11,7 +11,7 @@ Chabelardo es un juego en el cual controlas a chabelardo un pequeño jovencito, 
 ## Objetivos
 Matar a los jefes de cada nivel.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### imagenes [Jekyll](https://www.google.com.mx/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjO-Zvn1ZDUAhUFxYMKHYxnBdQQjRwIBw&url=http%3A%2F%2Fimagenesbonitas.bosquedefantasias.com%2F&psig=AFQjCNHBzFJfKZjAYGvk8p3Bizz2PcoBqg&ust=1495995000638118) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
