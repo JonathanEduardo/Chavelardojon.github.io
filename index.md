@@ -1,7 +1,7 @@
 ## Chavelardo
 ## Historia
 
-## [Descarga](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/archive/master.zip) to maintain and preview the content for your website in Markdown files.
+## [Descarga](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/archive/master.zip)
 
 ## Descripción:
 Chabelardo es un juego en el cual controlas a chabelardo un pequeño jovencito, el cual tiene que eliminar unas maquinas del mal la cuales esta aterrorizando el luhar donde vive y por tanto tendra que luchas contra enemigos del alto nivel donde siempre lo acompañara una esfera color azul con la cual podra eleiminar a los enemigo simples y el portara unas bombas pero son especiales puesto que solo las puede utilizar contra los jefes de cada nivel, al destruir a el jefe de cada nivel cvhabelardo podra continuar su camino pero cada vez se podra mas y mas dificil puesto que habra una esfera de color negra que robatara por todos lados y si es tocado por esta o por los enemigo este morira, cabe mencionar que cada que mate un villano este rencarnara en una esfera de color negra, pero chabelardo podra encontrar vidas solamente 2 por nivel trata de coleccionarla te serviran. 
@@ -48,7 +48,7 @@ Esta es una
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http://www.imagenesdeamor.pro/2016/01/imagenes-de-rosas-hermosas-te-amo.html) and ![Image](src)
+[Link](http://www.imagenesdeamor.pro/2016/01/imagenes-de-rosas-hermosas-te-amo.html) and ![Image](http://www.imagenesdeamor.pro/2016/01/imagenes-de-rosas-hermosas-te-amo.html)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
