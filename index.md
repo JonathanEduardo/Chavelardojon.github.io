@@ -1,54 +1,44 @@
-## Chavelardo
-## Historia
-
-## [Descarga](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/archive/master.zip)
-
-## Descripción:
-Chabelardo es un juego en el cual controlas a chabelardo un pequeño jovencito, el cual tiene que eliminar unas maquinas del mal la cuales esta aterrorizando el luhar donde vive y por tanto tendra que luchas contra enemigos del alto nivel donde siempre lo acompañara una esfera color azul con la cual podra eleiminar a los enemigo simples y el portara unas bombas pero son especiales puesto que solo las puede utilizar contra los jefes de cada nivel, al destruir a el jefe de cada nivel cvhabelardo podra continuar su camino pero cada vez se podra mas y mas dificil puesto que habra una esfera de color negra que robatara por todos lados y si es tocado por esta o por los enemigo este morira, cabe mencionar que cada que mate un villano este rencarnara en una esfera de color negra, pero chabelardo podra encontrar vidas solamente 2 por nivel trata de coleccionarla te serviran. 
+# Chavelardo
 
 
+# Links y Descargas:
+     
+## [Descarga Repositorios.zip](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/archive/master.zip)
+## [Link Video YouTube]()
+## [Link Ejecutable](!yslhgGykoh7rheNhDTwQ_j5xOAGoPKH2c0kpk5KSopc)
 
-## Objetivos
+/Nota: Para ejecutar el ejecutable es necesario tener instalado JAVA en tu computador.
+
+# Descripción:
+Chabelardo es un juego en el cual controlas a chabelardo un pequeño jovencito, el cual tiene que eliminar unas máquinas del mal la cuales está aterrorizando el luchar donde vive y por tanto tendrá que luchas contra enemigos del alto nivel donde siempre lo acompañara una esfera color azul con la cual podrá eliminar a los enemigo simples y el portara unas bombas pero son especiales puesto que solo las puede utilizar contra los jefes de cada nivel, al destruir a el jefe de cada nivel chabelardo podrá continuar su camino pero cada vez se podrá más y más difícil puesto que habrá una esfera de color negra que rebotara por todos lados y si es tocado por esta o por los enemigo este morirá, cabe mencionar que cada que mate un villano este rencarnara en una esfera de color negra, pero chabelardo podrá encontrar vidas solamente 2 por nivel trata de coleccionarla te servirán. 
+
+
+
+# Objetivos
 Matar a los jefes de cada nivel.
 
 
-## Clases utilizadas
-# MyWorld 
-- En esta clase se crea el mundo de chabelardo es la clase principal donde interactuan todos lo objetos del juego, tambien se         encuentra lo que es el menu principal del juego y la creacion de los objetos támbien se da en esta 
+# Clases utilizadas
 
-# Personaje
-- Esta clase es la de chabelardo, en esta clase podremos encontrar todos los metodo que lo hacen que funcione de la manera que lo hace como brincar, correr, la ilucion que da al correr, aparicion de vidas, validacion de la esfera para matar al enemigo, creacion de bomabas etc.
+## MyWorld 
+- En esta clase se crea el mundo de chabelardo es la clase principal donde interactúan todos los objetos del juego, también se encuentra lo que es el menú principal del juego y la creación de los objetos también se da en esta
 
-# Enemigo
-- Esta es una clase Padre la cual tiene como objetivo darle las funciones que visualmete podriamos observar en los enemigo osea sus clases hijas, EnemigoA, EnemigoB, Jefe1 y Jefe2, como seria matar al Personaje al momento de tocarlo la movilidad que tiene de un extremo a otro la visualizacion e ilucion y del efecto de caminar.
+ 
+## Personaje
+- Esta clase es la de chabelardo, en esta clase podremos encontrar todos los métodos que lo hacen que funcione de la manera que lo hace como brincar, correr, la ilusión que da al correr, aparición de vidas, validación de la esfera para matar al enemigo, creación de bombas etc.
 
-# Ball
-- Esta no es solo una clase padre si no tambien una clase abstracta que tiene como metodo abstracto el matar, el cual hereda al BallA y BallB para poder valida tanto una como otra a quien matar ya sea al enemigo o al personaje principal.
+## Enemigo
+- Esta es una clase Padre la cual tiene como objetivo darle las funciones que visualmente podríamos observar en los enemigos o sea sus clases hijas, EnemigoA, EnemigoB, Jefe1 y Jefe2, como seria matar al Personaje al momento de tocarlo la movilidad que tiene de un extremo a otro la visualización e ilusión y del efecto de caminar.
 
-# Bomba
+## Ball
+- Esta no es solo una clase padre si no también una clase abstracta que tiene como método abstracto el matar, el cual hereda al BallA y BallB para poder validar tanto una como otra a quien matar ya sea al enemigo o al personaje principal.
+
+## Bomba
 - Clase bomba.
 
-# Vida
+
+## Vida
 - Clase Vida (corazón).
-
-Esta es una
-### imagenes [Jekyll](https://www.google.com.mx/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjO-Zvn1ZDUAhUFxYMKHYxnBdQQjRwIBw&url=http%3A%2F%2Fimagenesbonitas.bosquedefantasias.com%2F&psig=AFQjCNHBzFJfKZjAYGvk8p3Bizz2PcoBqg&ust=1495995000638118) 
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](http://imagenesbonitas.bosquedefantasias.com/wp-content/uploads/2015/06/frases-hermosas.jpg) and ![Image](http://www.imagenesdeamor.pro/2016/01/imagenes-de-rosas-hermosas-te-amo.html)
-```
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 
