@@ -26,16 +26,31 @@ Matar a los jefes de cada nivel.
  
 ## Personaje
 - Esta clase es la de chabelardo, en esta clase podremos encontrar todos los métodos que lo hacen que funcione de la manera que lo hace como brincar, correr, la ilusión que da al correr, aparición de vidas, validación de la esfera para matar al enemigo, creación de bombas etc.
+![](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/blob/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/Jugador1I.png)
 
-## Enemigo
+## Enemigos
 - Esta es una clase Padre la cual tiene como objetivo darle las funciones que visualmente podríamos observar en los enemigos o sea sus clases hijas, EnemigoA, EnemigoB, Jefe1 y Jefe2, como seria matar al Personaje al momento de tocarlo la movilidad que tiene de un extremo a otro la visualización e ilusión y del efecto de caminar.
+
+- EnemigoA
+![](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/blob/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/Rocax1.png)
+- EnemigoB
+![](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/blob/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/Lex1.png)
+- Jefe1
+![](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/blob/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/Jefe1-1.png)
+- Jefe2
+![](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/blob/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/Jefe2-1.png)
+
 
 ## Ball
 - Esta no es solo una clase padre si no también una clase abstracta que tiene como método abstracto el matar, el cual hereda al BallA y BallB para poder validar tanto una como otra a quien matar ya sea al enemigo o al personaje principal.
+- BallA
+![](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/blob/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/EA.png)
+- BallB
+![](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/blob/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/EE.png)
 
 ## Bomba
 - Clase bomba.
-
+![](https://github.com/JonathanEduardo/Proyecto-de-chavelardo/blob/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/bomba.png)
 
 ## Vida
 - Clase Vida (corazón).
