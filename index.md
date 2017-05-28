@@ -39,7 +39,7 @@ Matar a los jefes de cada nivel.
 
 ## Vida
 - Clase Vida (corazón).
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://raw.githubusercontent.com/JonathanEduardo/Proyecto-de-chavelardo/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/Corazon.png)
 
 ### Large image
 
