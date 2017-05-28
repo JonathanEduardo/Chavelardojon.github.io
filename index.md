@@ -51,7 +51,7 @@ Matar a los jefes de cada nivel.
 - BallA
 
 ![](https://raw.githubusercontent.com/JonathanEduardo/Proyecto-de-chavelardo/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/EA.png)
- BallB
+- BallB
  
 ![](https://raw.githubusercontent.com/JonathanEduardo/Proyecto-de-chavelardo/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/EE.png)
 
@@ -62,7 +62,7 @@ Matar a los jefes de cada nivel.
 
 ## Vida
 - Clase Vida (corazón).
--
+
 ![](https://raw.githubusercontent.com/JonathanEduardo/Proyecto-de-chavelardo/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/Corazon.png)
 
 
