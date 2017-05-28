@@ -50,6 +50,7 @@ Matar a los jefes de cada nivel.
 
 ## Bomba
 - Clase bomba.
+
 ![](https://raw.githubusercontent.com/JonathanEduardo/Proyecto-de-chavelardo/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/bomba.png)
 
 ## Vida
