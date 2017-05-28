@@ -45,7 +45,7 @@ Matar a los jefes de cada nivel.
 - Esta no es solo una clase padre si no también una clase abstracta que tiene como método abstracto el matar, el cual hereda al BallA y BallB para poder validar tanto una como otra a quien matar ya sea al enemigo o al personaje principal.
 - BallA
 ![](https://raw.githubusercontent.com/JonathanEduardo/Proyecto-de-chavelardo/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/EA.png)
-- BallB
+ BallB
 ![](https://raw.githubusercontent.com/JonathanEduardo/Proyecto-de-chavelardo/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/EE.png)
 
 ## Bomba
@@ -54,6 +54,6 @@ Matar a los jefes de cada nivel.
 
 ## Vida
 - Clase Vida (corazón).
-![](https://raw.githubusercontent.com/JonathanEduardo/Proyecto-de-chavelardo/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/Corazon.png)
+- ![](https://raw.githubusercontent.com/JonathanEduardo/Proyecto-de-chavelardo/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/Corazon.png)
 
 
