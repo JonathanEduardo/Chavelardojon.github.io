@@ -41,7 +41,4 @@ Matar a los jefes de cada nivel.
 - Clase Vida (corazón).
 ![](https://raw.githubusercontent.com/JonathanEduardo/Proyecto-de-chavelardo/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/Corazon.png)
 
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
 
