@@ -41,4 +41,7 @@ Matar a los jefes de cada nivel.
 - Clase Vida (corazón).
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
+### Large image
+
+![](https://guides.github.com/activities/hello-world/branching.png)
 
